@@ -1,0 +1,29 @@
+/*Formato css para los formularios del sitio*/
+
+  
+  body {
+    font  : 18px sans-serif;
+  
+    padding : 2em;
+    margin  : 0;
+  
+  }
+  
+  form {
+    position: relative;
+  
+    width  : 75%;
+    height : 100%;
+    margin : 0 auto;
+  
+    /*background: whitesmoke url(background.jpg);*/
+  }
+  
+  label{
+    display: block;
+  }
+
+  button{
+    display: block;
+    padding-inline: 15px;
+  }
